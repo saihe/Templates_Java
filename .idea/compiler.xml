@@ -4,10 +4,14 @@
     <bytecodeTargetLevel>
       <module name="batch_main" target="1.8" />
       <module name="batch_test" target="1.8" />
+      <module name="FileWatchBatch_main" target="1.8" />
+      <module name="FileWatchBatch_test" target="1.8" />
       <module name="FileWatcher_main" target="1.8" />
       <module name="FileWatcher_test" target="1.8" />
       <module name="FileWtache_main" target="1.8" />
       <module name="FileWtache_test" target="1.8" />
+      <module name="SpringBatch_main" target="1.8" />
+      <module name="SpringBatch_test" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

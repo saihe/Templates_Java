@@ -1,0 +1,19 @@
+#アプリ設定
+##外部定義
+properties:
+  path:
+    application: C:/work/test/Templates_Java/FIleWatchBatch/lib/application.yml
+    logging: C:/work/test/Templates_Java/FIleWatchBatch/lib/logging.yml
+    message: C:/work/test/Templates_Java/FIleWatchBatch/lib/message.yml
+##バッチスケジューリング
+scheduled:
+  ###有効フラグ
+  active:
+    batch001: 1
+    batch002: 0
+    batch003: 0
+  ###実行間隔
+  batch001:
+    delay:
+      initial: 0
+      fixed: 1000

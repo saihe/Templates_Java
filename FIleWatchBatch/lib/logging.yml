@@ -1,0 +1,20 @@
+#ロギング設定
+log:
+  ##ログレベル
+  level:
+    root: TRACE
+#    org:
+#      springframework:
+#        web: WARN
+#    ksaito: TRACE
+  ##ログ出力先
+  directory: C:/tmp/work/WatchTarget
+  ##ログファイル名
+  file:
+    operation: watcher
+    error: ${log.file.operation}.error
+  ##ログ出力パターン
+  pattern:
+    console: %d{yyyy/MM/dd HH:mm:ss.SSS},%-5level,%class{0},%M,%X{pid},%msg%n
+    operation: %d{yyyy/MM/dd HH:mm:ss.SSS},%-5level,%class{0},%M,%X{pid},%msg%n
+    error: %d{yyyy/MM/dd HH:mm:ss.SSS},%-5level,%class{0},%M,%X{pid},%msg%n

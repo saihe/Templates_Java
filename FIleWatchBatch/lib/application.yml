@@ -1,0 +1,29 @@
+#アプリ設定
+##バッチスケジューリング
+scheduled:
+  ###有効フラグ
+  active:
+    batch001: 1
+    batch002: 0
+    batch003: 0
+  ###実行間隔
+  batch001:
+    delay:
+      initial: 0
+      fixed: 1000
+
+##監視設定
+watcher:
+  ###対象ディレクトリ
+  target:
+    directory:
+      path: C:/tmp/work/WatchTarget/from
+  ###監視対象ファイル拡張子
+  file:
+    extension: *
+
+##ファイル移動先バッチ設定
+move:
+  to:
+    directory:
+      path: C:/tmp/work/WatchTarget/to
