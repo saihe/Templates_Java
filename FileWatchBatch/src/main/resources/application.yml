@@ -1,0 +1,14 @@
+#基底：アプリ設定
+##外部定義ファイル
+properties:
+  path:
+    application: C:/work/test/Templates_Java/FileWatchBatch/lib/application.yml
+    logging: C:/work/test/Templates_Java/FileWatchBatch/lib/logging.yml
+    message: C:/work/test/Templates_Java/FileWatchBatch/lib/message.yml
+##初期バッチスケジューリング
+scheduled:
+  ###実行間隔
+  batch001:
+    delay:
+      initial: 0
+      fixed: 1000

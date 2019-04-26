@@ -2,37 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6752b126-6dc0-48fe-ac2e-6dc169ae214b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__ch_qos_logback_logback_classic_1_1_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__ch_qos_logback_logback_core_1_1_6.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_classmate_1_4_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_core_2_9_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_core_jackson_databind_2_9_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_jdk8_2_9_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_datatype_jackson_datatype_jsr310_2_9_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__com_fasterxml_jackson_module_jackson_module_parameter_names_2_9_8.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__javax_validation_validation_api_2_0_1_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_commons_commons_lang3_3_1.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_core_9_0_17.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_el_9_0_17.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_apache_tomcat_embed_tomcat_embed_websocket_9_0_17.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_hibernate_validator_hibernate_validator_6_0_16_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_jboss_logging_jboss_logging_3_3_2_Final.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_slf4j_slf4j_api_1_7_18.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_json_2_1_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_tomcat_2_1_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_boot_spring_boot_starter_web_2_1_4_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_context_5_0_0_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_web_5_1_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Gradle__org_springframework_spring_webmvc_5_1_6_RELEASE.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/FileWatcher.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/FileWatcher_main.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules/FileWatcher_test.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FIleWatchBatch/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/FileWatchBatch/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FIleWatchBatch/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/FileWatchBatch/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FIleWatchBatch/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/FileWatchBatch/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FIleWatchBatch/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/FileWatchBatch/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FIleWatchBatch/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/FileWatchBatch/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FIleWatchBatch/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/FileWatchBatch/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FIleWatchBatch/lib/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/FileWatchBatch/lib/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FIleWatchBatch/lib/logging.yml" beforeDir="false" afterPath="$PROJECT_DIR$/FileWatchBatch/lib/logging.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FIleWatchBatch/lib/message.yml" beforeDir="false" afterPath="$PROJECT_DIR$/FileWatchBatch/lib/message.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FIleWatchBatch/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/FileWatchBatch/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FIleWatchBatch/src/main/java/ksaito/fileWatchBatch/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/FileWatchBatch/src/main/java/ksaito/fileWatchBatch/Application.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FIleWatchBatch/src/main/java/ksaito/fileWatchBatch/Properties/MessageProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/FileWatchBatch/src/main/java/ksaito/fileWatchBatch/Properties/MessageProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FIleWatchBatch/src/main/java/ksaito/fileWatchBatch/Properties/PropertiesPathProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/FileWatchBatch/src/main/java/ksaito/fileWatchBatch/Properties/PropertiesPathProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FIleWatchBatch/src/main/java/ksaito/fileWatchBatch/Properties/ScheduledProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/FileWatchBatch/src/main/java/ksaito/fileWatchBatch/Properties/ScheduledProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FIleWatchBatch/src/main/java/ksaito/fileWatchBatch/service/TestService.java" beforeDir="false" afterPath="$PROJECT_DIR$/FileWatchBatch/src/main/java/ksaito/fileWatchBatch/service/TestService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FIleWatchBatch/src/main/java/ksaito/fileWatchBatch/task/Batch.java" beforeDir="false" afterPath="$PROJECT_DIR$/FileWatchBatch/src/main/java/ksaito/fileWatchBatch/task/Batch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FIleWatchBatch/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/FileWatchBatch/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FIleWatchBatch/src/test/java/ksaito/testSpringBatch/TestApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/FileWatchBatch/src/test/java/ksaito/testSpringBatch/TestApplicationTests.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -110,131 +98,135 @@
     <session id="1105507732">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="4" />
+          <entry key="project.closed" value="5" />
           <entry key="project.open.time.3" value="1" />
           <entry key="project.open.time.32" value="1" />
           <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="4" />
+          <entry key="project.opened" value="5" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="bat" value="3" />
-          <entry key="gradle" value="9" />
-          <entry key="java" value="97" />
+          <entry key="gradle" value="10" />
+          <entry key="java" value="119" />
           <entry key="properties" value="33" />
           <entry key="xml" value="9" />
-          <entry key="yml" value="15" />
+          <entry key="yml" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="Bat" value="2" />
-          <entry key="Groovy" value="9" />
-          <entry key="JAVA" value="97" />
+          <entry key="Groovy" value="10" />
+          <entry key="JAVA" value="119" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="Properties" value="33" />
           <entry key="XML" value="9" />
-          <entry key="YAML" value="15" />
+          <entry key="YAML" value="34" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="bat" value="101" />
-          <entry key="dummy" value="39" />
+          <entry key="dummy" value="50" />
           <entry key="gradle" value="66" />
-          <entry key="java" value="7553" />
+          <entry key="java" value="9756" />
           <entry key="properties" value="932" />
           <entry key="xml" value="153" />
-          <entry key="yml" value="499" />
+          <entry key="yml" value="532" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="Groovy" value="66" />
-          <entry key="JAVA" value="7553" />
-          <entry key="PLAIN_TEXT" value="140" />
+          <entry key="JAVA" value="9756" />
+          <entry key="PLAIN_TEXT" value="151" />
           <entry key="Properties" value="932" />
           <entry key="XML" value="153" />
-          <entry key="YAML" value="499" />
+          <entry key="YAML" value="532" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FIleWatchBatch/build.gradle">
+        <entry file="file://$PROJECT_DIR$/FileWatchBatch/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="170">
-              <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+            <state relative-caret-position="275">
+              <caret line="29" selection-start-line="29" selection-end-line="29" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FIleWatchBatch/src/main/java/ksaito/fileWatchBatch/Properties/ScheduledProperties.java">
+        <entry file="file://$PROJECT_DIR$/FileWatchBatch/src/main/java/ksaito/fileWatchBatch/task/Batch.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FIleWatchBatch/src/main/java/ksaito/fileWatchBatch/Properties/MessageProperties.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FIleWatchBatch/src/main/java/ksaito/fileWatchBatch/Application.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="34">
-              <caret line="6" column="66" lean-forward="true" selection-start-line="6" selection-start-column="66" selection-end-line="6" selection-end-column="66" />
+            <state relative-caret-position="510">
+              <caret line="30" selection-start-line="30" selection-end-line="30" />
               <folding>
-                <element signature="e#640#641#0" expanded="true" />
-                <element signature="e#702#703#0" expanded="true" />
+                <element signature="imports" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FIleWatchBatch/src/main/resources/application.yml">
+        <entry file="file://$PROJECT_DIR$/FileWatchBatch/src/main/java/ksaito/fileWatchBatch/Utilities/SystemUtil.java">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+              <caret column="40" lean-forward="true" selection-start-column="40" selection-end-column="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FileWatchBatch/src/main/java/ksaito/fileWatchBatch/Beans/PropertiesBean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FileWatchBatch/lib/message.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FileWatchBatch/lib/logging.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="6" selection-start-column="6" selection-end-column="6" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/FIleWatchBatch/src/main/java/ksaito/fileWatchBatch/task/Batch.java">
+        <entry file="file://$PROJECT_DIR$/FileWatchBatch/src/main/java/ksaito/fileWatchBatch/Properties/ApplicationProperties.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="544">
-              <caret line="82" selection-start-line="82" selection-end-line="82" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="170">
+              <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/FIleWatchBatch/src/main/java/ksaito/fileWatchBatch/service/TestService.java">
+        <entry file="file://$PROJECT_DIR$/FileWatchBatch/lib/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="22" column="38" lean-forward="true" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#408#409#0" expanded="true" />
-                <element signature="e#460#461#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="255">
+              <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -290,7 +282,7 @@
             <list>
               <ExternalProjectPojo>
                 <option name="name" value="FileWatchBatch" />
-                <option name="path" value="$PROJECT_DIR$/FIleWatchBatch" />
+                <option name="path" value="$PROJECT_DIR$/FileWatchBatch" />
               </ExternalProjectPojo>
             </list>
           </value>
@@ -492,14 +484,210 @@
             </list>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/FileWatchBatch">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'FileWatchBatch'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FileWatchBatch" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FileWatchBatch" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FileWatchBatch" />
+                <option name="name" value="cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'FileWatchBatch'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FileWatchBatch" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FileWatchBatch" />
+                <option name="name" value="cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FileWatchBatch" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'FileWatchBatch'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FileWatchBatch" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'FileWatchBatch'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FileWatchBatch" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FileWatchBatch" />
+                <option name="name" value="cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FileWatchBatch" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FileWatchBatch" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FileWatchBatch" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles an executable jar archive containing the main classes and their dependencies." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FileWatchBatch" />
+                <option name="name" value="bootJar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FileWatchBatch" />
+                <option name="name" value="eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FileWatchBatch" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'FileWatchBatch'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FileWatchBatch" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FileWatchBatch" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'FileWatchBatch'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FileWatchBatch" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FileWatchBatch" />
+                <option name="name" value="cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FileWatchBatch" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FileWatchBatch" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependency management declared in root project 'FileWatchBatch'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FileWatchBatch" />
+                <option name="name" value="dependencyManagement" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs this project as a Spring Boot application." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FileWatchBatch" />
+                <option name="name" value="bootRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FileWatchBatch" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'FileWatchBatch'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FileWatchBatch" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FileWatchBatch" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FileWatchBatch" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FileWatchBatch" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FileWatchBatch" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'FileWatchBatch'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FileWatchBatch" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FileWatchBatch" />
+                <option name="name" value="eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FileWatchBatch" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FileWatchBatch" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FileWatchBatch" />
+                <option name="name" value="eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FileWatchBatch" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FileWatchBatch" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FileWatchBatch" />
+                <option name="name" value="eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'FileWatchBatch'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/FileWatchBatch" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
       </map>
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="$PROJECT_DIR$/FIleWatchBatch" value="4668019354290" />
+        <entry key="$PROJECT_DIR$/FIleWatchBatch" value="4668270271410" />
         <entry key="$PROJECT_DIR$/FIleWatchBatch/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/FIleWatchBatch/build.gradle" value="220697620" />
         <entry key="$PROJECT_DIR$/FIleWatchBatch/settings.gradle" value="4028434715" />
+        <entry key="$PROJECT_DIR$/FileWatchBatch/.gradle" value="0" />
+        <entry key="$PROJECT_DIR$/FileWatchBatch/build.gradle" value="202332588" />
+        <entry key="$PROJECT_DIR$/FileWatchBatch/settings.gradle" value="4028434715" />
         <entry key="$PROJECT_DIR$/FileWatcher/.gradle" value="0" />
         <entry key="$PROJECT_DIR$/FileWatcher/build.gradle" value="1139170512" />
         <entry key="$PROJECT_DIR$/FileWatcher/settings.gradle" value="2764992120" />
@@ -532,6 +720,29 @@
                           </list>
                         </option>
                         <option name="path" value="$PROJECT_DIR$/FIleWatchBatch" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/FileWatchBatch">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/2.1.4.RELEASE/c160f24168a528326dd625dc278001549a452cc4/spring-boot-gradle-plugin-2.1.4.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/2.1.4.RELEASE/5981659aa6d1ff875aae4528eb42ef16ac940389/spring-boot-loader-tools-2.1.4.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.6.RELEASE/d6c42859b24b62034b2a5e0db5ea12c688493d48/dependency-management-plugin-1.0.6.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.1.6.RELEASE/aa74700198d24e1ed8b3c8ad663ad50733658ac6/spring-core-5.1.6.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.18/a25b942b99fde2cc2913ab39ad34abc0df4f5eb9/commons-compress-1.18-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.1.6.RELEASE/e5cf3ba1dc3bb1127ea8a591f4afd88fc706a27a/spring-jcl-5.1.6.RELEASE-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-gradle-plugin/2.1.4.RELEASE/531200f161ffd934b8db6dfbf84ee85f1bd7b67f/spring-boot-gradle-plugin-2.1.4.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework.boot/spring-boot-loader-tools/2.1.4.RELEASE/d0fdc1a76c4d7ebaf3a9326d9ed7003922d5a888/spring-boot-loader-tools-2.1.4.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/io.spring.gradle/dependency-management-plugin/1.0.6.RELEASE/c7118365d75bca698892b5df1e683b8d6d6b87bb/dependency-management-plugin-1.0.6.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-core/5.1.6.RELEASE/9329591e728ef9844911e082e399f4fc3e3ecb37/spring-core-5.1.6.RELEASE.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.apache.commons/commons-compress/1.18/1191f9f2bc0c47a8cce69193feb1ff0a8bcb37d5/commons-compress-1.18.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-jcl/5.1.6.RELEASE/a4ad3c98c7cc31357e94e12772c8e6449522bc5/spring-jcl-5.1.6.RELEASE.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/FileWatchBatch" />
                       </ExternalModuleBuildClasspathPojo>
                     </value>
                   </entry>
@@ -749,8 +960,25 @@
         <option value="$PROJECT_DIR$/FIleWatchBatch/src/main/java/ksaito/fileWatchBatch/Properties/MessageProperties.java" />
         <option value="$PROJECT_DIR$/FIleWatchBatch/src/main/java/ksaito/fileWatchBatch/service/TestService.java" />
         <option value="$PROJECT_DIR$/FIleWatchBatch/src/main/java/ksaito/fileWatchBatch/Application.java" />
-        <option value="$PROJECT_DIR$/FIleWatchBatch/src/main/java/ksaito/fileWatchBatch/task/Batch.java" />
+        <option value="$PROJECT_DIR$/FIleWatchBatch/src/main/java/ksaito/fileWatchBatch/Utilities/PropertiesUtil.java" />
         <option value="$PROJECT_DIR$/FIleWatchBatch/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/FIleWatchBatch/src/main/java/ksaito/fileWatchBatch/Beans/Propertiesbean.java" />
+        <option value="$PROJECT_DIR$/FIleWatchBatch/src/main/java/ksaito/fileWatchBatch/Utilities/ConsoleUtil.java" />
+        <option value="$PROJECT_DIR$/FIleWatchBatch/src/main/java/ksaito/fileWatchBatch/Utilities/ConstantsUtil.java" />
+        <option value="$PROJECT_DIR$/FIleWatchBatch/src/main/java/ksaito/fileWatchBatch/Utilities/SystemUtil.java" />
+        <option value="$PROJECT_DIR$/FIleWatchBatch/src/main/java/ksaito/fileWatchBatch/task/Batch.java" />
+        <option value="$PROJECT_DIR$/FIleWatchBatch/src/main/java/ksaito/fileWatchBatch/Beans/PropertiesBean.java" />
+        <option value="$PROJECT_DIR$/FileWatchBatch/src/main/java/ksaito/fileWatchBatch/Beans/BaseBean.java" />
+        <option value="$PROJECT_DIR$/FileWatchBatch/build.gradle" />
+        <option value="$PROJECT_DIR$/FileWatchBatch/lib/logging.yml" />
+        <option value="$PROJECT_DIR$/FileWatchBatch/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/FileWatchBatch/src/main/java/ksaito/fileWatchBatch/task/BatchBase.java" />
+        <option value="$PROJECT_DIR$/FileWatchBatch/lib/application.yml" />
+        <option value="$PROJECT_DIR$/FileWatchBatch/lib/message.yml" />
+        <option value="$PROJECT_DIR$/FileWatchBatch/src/main/java/ksaito/fileWatchBatch/Properties/MessageProperties.java" />
+        <option value="$PROJECT_DIR$/FileWatchBatch/src/main/java/ksaito/fileWatchBatch/task/Batch.java" />
+        <option value="$PROJECT_DIR$/FileWatchBatch/src/main/java/ksaito/fileWatchBatch/Beans/PropertiesBean.java" />
+        <option value="$PROJECT_DIR$/FileWatchBatch/src/main/java/ksaito/fileWatchBatch/Properties/ApplicationProperties.java" />
       </list>
     </option>
   </component>
@@ -774,90 +1002,30 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="FileWatchBatch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FIleWatchBatch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="FileWatchBatch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
             <path>
               <item name="FileWatchBatch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FIleWatchBatch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="lib" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FileWatchBatch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FIleWatchBatch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="FileWatchBatch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FileWatchBatch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FIleWatchBatch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-            </path>
-            <path>
-              <item name="FileWatchBatch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FIleWatchBatch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FileWatchBatch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FIleWatchBatch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="fileWatchBatch" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FileWatchBatch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FIleWatchBatch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="fileWatchBatch" type="462c0819:PsiDirectoryNode" />
-              <item name="Properties" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FileWatchBatch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FIleWatchBatch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="fileWatchBatch" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FileWatchBatch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FIleWatchBatch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="fileWatchBatch" type="462c0819:PsiDirectoryNode" />
-              <item name="task" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="FileWatchBatch" type="b2602c69:ProjectViewProjectNode" />
-              <item name="FIleWatchBatch" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556011468171" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556263820263" />
     <property name="external.system.task.project.file.to.start" value="$PROJECT_DIR$/FIleWatchBatch" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/FIleWatchBatch/build.gradle" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TEST_Spring" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -1068,20 +1236,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="1358" y="-8" width="1936" height="1096" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info id="Image Layers" order="0" />
       <window_info id="Designer" order="1" />
       <window_info id="UI Designer" order="2" />
       <window_info id="Capture Tool" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.26066098" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.26332623" />
       <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
       <window_info id="DB Browser" order="7" />
       <window_info id="Project Explorer" order="8" />
       <window_info id="Job Explorer" order="9" />
       <window_info id="Azure Explorer" order="10" />
-      <window_info anchor="bottom" id="Messages" />
       <window_info anchor="bottom" id="CheckStyle" order="0" />
       <window_info anchor="bottom" id="Version Control" order="1" show_stripe_button="false" />
       <window_info anchor="bottom" id="Terminal" order="2" />
@@ -1100,7 +1266,7 @@
       <window_info anchor="bottom" id="Cosmos Serverless Spark Jobs" order="15" show_stripe_button="false" />
       <window_info anchor="bottom" id="Build" order="16" weight="0.32978722" />
       <window_info anchor="bottom" id="Azure Activity Log" order="17" />
-      <window_info anchor="right" id="Coverage" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="18" />
       <window_info anchor="right" id="Palette" order="0" />
       <window_info anchor="right" id="Capture Analysis" order="1" />
       <window_info anchor="right" id="Theme Preview" order="2" />
@@ -1111,6 +1277,7 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
       <window_info anchor="right" id="パレット" order="8" />
       <window_info anchor="right" id="Gradle" order="9" weight="0.32995737" />
+      <window_info anchor="right" id="Coverage" order="10" side_tool="true" />
     </layout>
   </component>
   <component name="VcsContentAnnotationSettings">
@@ -1133,10 +1300,31 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Remote">
+        <watch expression="((Batch)this).messageProperties" custom="ksaito.fileWatchBatch.task.Batch" />
+        <watch expression="messageProperties.getE001()" language="JAVA" />
+        <watch expression="messageProperties.getI001()" language="JAVA" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
     <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>messageProperties.getI001()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>messageProperties.getE001()</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/FileWatcher/lib/system.properties" />
@@ -1168,22 +1356,8 @@
     <entry file="file://$PROJECT_DIR$/FileWatcher/src/main/java/ksaito/FileWatcher/Services/WatchService.java" />
     <entry file="file://$PROJECT_DIR$/FileWatcher/lib/application.properties" />
     <entry file="file://$PROJECT_DIR$/FileWatcher/src/main/java/ksaito/FileWatcher/Services/FileControlService.java" />
-    <entry file="file://$PROJECT_DIR$/FIleWatchBatch/gradlew.bat">
+    <entry file="file://$PROJECT_DIR$/FileWatchBatch/gradlew.bat">
       <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FIleWatchBatch/settings.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FIleWatchBatch/lib/logging.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
-        </state>
-      </provider>
     </entry>
     <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-beans/5.1.6.RELEASE/edd8534e9e343663a18560cc465c49f9d93ca097/spring-beans-5.1.6.RELEASE-sources.jar!/org/springframework/beans/BeanUtils.java">
       <provider selected="true" editor-type-id="text-editor">
@@ -1192,31 +1366,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FIleWatchBatch/lib/application.yml">
+    <entry file="file://$PROJECT_DIR$/FileWatchBatch/src/main/java/ksaito/fileWatchBatch/Properties/ScheduledProperties.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-48">
-          <caret line="2" column="7" selection-start-line="2" selection-start-column="7" selection-end-line="2" selection-end-column="7" />
+        <state relative-caret-position="102">
+          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FIleWatchBatch/lib/message.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
-          <caret line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FIleWatchBatch/src/main/java/ksaito/fileWatchBatch/Properties/PropertiesPathProperties.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FIleWatchBatch/src/main/java/ksaito/fileWatchBatch/service/TestService.java">
+    <entry file="file://$PROJECT_DIR$/FileWatchBatch/src/main/java/ksaito/fileWatchBatch/service/TestService.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="374">
-          <caret line="22" column="38" lean-forward="true" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#408#409#0" expanded="true" />
@@ -1225,52 +1385,138 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FIleWatchBatch/build.gradle">
+    <entry file="file://$PROJECT_DIR$/FileWatchBatch/src/main/java/ksaito/fileWatchBatch/Properties/PropertiesPathProperties.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="26" selection-start-line="10" selection-start-column="26" selection-end-line="10" selection-end-column="26" />
+        <state relative-caret-position="85">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FIleWatchBatch/src/main/java/ksaito/fileWatchBatch/Properties/ScheduledProperties.java">
+    <entry file="file://$PROJECT_DIR$/FileWatchBatch/src/main/java/ksaito/fileWatchBatch/Utilities/ConstantsUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileWatchBatch/src/main/java/ksaito/fileWatchBatch/Utilities/PropertiesUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="18" selection-start-line="3" selection-start-column="18" selection-end-line="3" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileWatchBatch/src/main/java/ksaito/fileWatchBatch/Application.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileWatchBatch/settings.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
-          <caret line="12" column="46" selection-start-line="12" selection-start-column="46" selection-end-line="12" selection-end-column="46" />
+          <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FIleWatchBatch/src/main/java/ksaito/fileWatchBatch/Properties/MessageProperties.java">
+    <entry file="file://$PROJECT_DIR$/FileWatchBatch/src/main/java/ksaito/fileWatchBatch/Beans/BaseBean.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="85">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FIleWatchBatch/src/main/java/ksaito/fileWatchBatch/Application.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="34">
-          <caret line="6" column="66" lean-forward="true" selection-start-line="6" selection-start-column="66" selection-end-line="6" selection-end-column="66" />
-          <folding>
-            <element signature="e#640#641#0" expanded="true" />
-            <element signature="e#702#703#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/FIleWatchBatch/src/main/resources/application.yml">
+    <entry file="file://$PROJECT_DIR$/FileWatchBatch/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="6" lean-forward="true" selection-start-column="6" selection-end-column="6" />
+          <caret column="4" selection-start-column="4" selection-end-column="4" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/FIleWatchBatch/src/main/java/ksaito/fileWatchBatch/task/Batch.java">
+    <entry file="file://$PROJECT_DIR$/FileWatchBatch/src/main/java/ksaito/fileWatchBatch/task/BatchBase.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="544">
-          <caret line="82" selection-start-line="82" selection-end-line="82" />
+        <state relative-caret-position="153">
+          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.springframework/spring-context/5.1.6.RELEASE/647293fbac4e4a0805d5440151ebb79cd0bf426b/spring-context-5.1.6.RELEASE-sources.jar!/org/springframework/scheduling/support/ScheduledMethodRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="86" selection-start-line="86" selection-end-line="86" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileWatchBatch/src/main/java/ksaito/fileWatchBatch/Properties/MessageProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="476">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileWatchBatch/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="29" selection-start-line="29" selection-end-line="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileWatchBatch/src/main/java/ksaito/fileWatchBatch/task/Batch.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="30" selection-start-line="30" selection-end-line="30" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileWatchBatch/src/main/java/ksaito/fileWatchBatch/Utilities/SystemUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="40" lean-forward="true" selection-start-column="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileWatchBatch/src/main/java/ksaito/fileWatchBatch/Beans/PropertiesBean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileWatchBatch/lib/message.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileWatchBatch/lib/logging.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="6" selection-start-column="6" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileWatchBatch/lib/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="6" selection-start-line="15" selection-start-column="6" selection-end-line="15" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FileWatchBatch/src/main/java/ksaito/fileWatchBatch/Properties/ApplicationProperties.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="17" column="13" lean-forward="true" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
         </state>
       </provider>
     </entry>

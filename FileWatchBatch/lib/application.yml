@@ -1,4 +1,4 @@
-#アプリ設定
+#外部定義：アプリ設定
 ##バッチスケジューリング
 scheduled:
   ###有効フラグ
@@ -10,10 +10,10 @@ scheduled:
   batch001:
     delay:
       initial: 0
-      fixed: 1000
+      fixed: 0
 
 ##監視設定
-watcher:
+watche:
   ###対象ディレクトリ
   target:
     directory:

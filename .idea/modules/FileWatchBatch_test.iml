@@ -1,14 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<module external.linked.project.id="FileWatchBatch:test" external.linked.project.path="$MODULE_DIR$/../../FIleWatchBatch" external.root.project.path="$MODULE_DIR$/../../FIleWatchBatch" external.system.id="GRADLE" external.system.module.group="ksaito" external.system.module.type="sourceSet" external.system.module.version="0.0.1-SNAPSHOT" type="JAVA_MODULE" version="4">
+<module external.linked.project.id="FileWatchBatch:test" external.linked.project.path="$MODULE_DIR$/../../FileWatchBatch" external.root.project.path="$MODULE_DIR$/../../FIleWatchBatch" external.system.id="GRADLE" external.system.module.group="ksaito" external.system.module.type="sourceSet" external.system.module.version="0.0.1-SNAPSHOT" type="JAVA_MODULE" version="4">
   <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
     <output-test url="file://$MODULE_DIR$/../../FIleWatchBatch/out/test/classes" />
     <exclude-output />
-    <content url="file://$MODULE_DIR$/../../FIleWatchBatch/src/test">
-      <sourceFolder url="file://$MODULE_DIR$/../../FIleWatchBatch/src/test/java" isTestSource="true" />
+    <content url="file://$MODULE_DIR$/../../FileWatchBatch/src/test">
+      <sourceFolder url="file://$MODULE_DIR$/../../FileWatchBatch/src/test/java" isTestSource="true" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="FileWatchBatch_main" />
+    <orderEntry type="library" name="Gradle: org.apache.commons:commons-lang3:3.1" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter-test:2.1.4.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-starter:2.1.4.RELEASE" level="project" />
     <orderEntry type="library" name="Gradle: org.springframework.boot:spring-boot-test-autoconfigure:2.1.4.RELEASE" level="project" />
