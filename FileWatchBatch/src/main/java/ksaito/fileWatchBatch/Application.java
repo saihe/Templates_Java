@@ -8,11 +8,9 @@ import org.springframework.scheduling.annotation.EnableScheduling;
 
 @SpringBootApplication
 @EnableScheduling
-//@PropertySources({
-//     @PropertySource("file:${properties.path.application}")
-//    , @PropertySource("file:${properties.path.message}")
-//    , @PropertySource("file:${properties.path.logging}")
-//})
+@PropertySource("file:${properties.path.application}")
+@PropertySource("file:${properties.path.message}")
+@PropertySource("file:${properties.path.logging}")
 public class Application {
 
     public static void main(String[] args) {

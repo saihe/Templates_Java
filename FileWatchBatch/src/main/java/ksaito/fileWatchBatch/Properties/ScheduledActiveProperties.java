@@ -4,7 +4,6 @@ import lombok.Getter;
 import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.context.properties.ConfigurationProperties;
-import org.springframework.boot.context.properties.ConfigurationPropertiesBinding;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.PropertySource;
 
@@ -13,13 +12,12 @@ import java.util.Map;
 
 @Getter
 @Configuration
-@ConfigurationProperties(prefix = "scheduled.delay")
-public class ScheduledProperties {
+@ConfigurationProperties(prefix = "scheduled.active")
+public class ScheduledActiveProperties {
 
-    /** batch001 */
+    /** メッセージ：I001 */
     @Value("${batch001}")
-    @Qualifier("delayBatch001")
-//    private ScheduledBatchProperties delayBatch001;
-    private String delayBatch001;
+    @Qualifier("scheduledActiveBatch001")
+    private String scheduledActiveBatch001;
 
 }

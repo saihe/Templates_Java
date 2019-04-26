@@ -1,5 +1,6 @@
 package ksaito.fileWatchBatch.Beans;
 
+import ksaito.fileWatchBatch.Properties.ApplicationProperties;
 import ksaito.fileWatchBatch.Properties.MessageProperties;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
@@ -11,10 +12,13 @@ import java.util.Properties;
  */
 @Component
 public class PropertiesBean {
-    /** プロパティ */
+    /** 基底プロパティ */
     @Autowired
     public Properties properties;
-    /** メッセージプロパティ */
+    /** 外部定義：アプリケーションプロパティ */
+    @Autowired
+    public ApplicationProperties applicationProperties;
+    /** 外部定義：メッセージプロパティ */
     @Autowired
     public MessageProperties messageProperties;
 

@@ -1,23 +1,23 @@
 package ksaito.fileWatchBatch.Properties;
 
 import lombok.Getter;
-import org.springframework.beans.factory.annotation.Value;
-import org.springframework.boot.context.properties.ConfigurationProperties;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.PropertySource;
-
-import java.util.HashMap;
-import java.util.Map;
+import org.springframework.stereotype.Component;
 
 @Getter
-@PropertySource("file:${properties.path.application}")
-@Configuration
-@ConfigurationProperties
+@Component
 public class ApplicationProperties {
 
-    /** メッセージ：I001 */
-    @Value("${I001}")
-
-    private Map<String, String> message = new HashMap<String, String>();
+    /** バッチ有効化設定 */
+    @Autowired
+    private ScheduledActiveProperties scheduledActiveProperties;
+    /** スケジュール設定 */
+    @Autowired
+    private ScheduledProperties scheduledProperties;
+    /** 監視対象設定 */
+    @Autowired
+    private WatchProperties watchProperties;
 
 }

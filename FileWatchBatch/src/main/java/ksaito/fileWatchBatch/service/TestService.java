@@ -15,16 +15,12 @@ public class TestService {
     public void setProp(Properties prop) {
         this.prop = (Properties)prop.clone();
     }
-//    @Autowired
-//    private MessageProperties messageProperties;
 
     public void print(){
         // メッセージ一覧出力
         System.out.println("メッセージ一覧");
-//        for(String key: messageProperties.getMessage().keySet()){
-//            System.out.println("key：[" + key + "]、value：[" + messageProperties.getMessage().get(key) + "]");
-//        }
-
         System.out.println("[" + (printCounter++) + "]回目のprintをした");
+
     }
+
 }

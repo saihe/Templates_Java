@@ -1,7 +1,6 @@
 package ksaito.fileWatchBatch.Properties;
 
 import lombok.Getter;
-import org.springframework.beans.factory.annotation.Qualifier;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.context.properties.ConfigurationProperties;
 import org.springframework.boot.context.properties.ConfigurationPropertiesBinding;
@@ -13,13 +12,18 @@ import java.util.Map;
 
 @Getter
 @Configuration
-@ConfigurationProperties(prefix = "scheduled.delay")
-public class ScheduledProperties {
+@ConfigurationProperties(prefix = "watch.target")
+public class WatchProperties {
 
-    /** batch001 */
-    @Value("${batch001}")
-    @Qualifier("delayBatch001")
-//    private ScheduledBatchProperties delayBatch001;
-    private String delayBatch001;
+    /** 監視対象ディレクトリパス */
+    @Value("${directory.path}")
+    @
+    private String directoryPath;
+    /** 監視対象ディレクトリパス */
+    @Value("${file.extension}")
+    private String fileExtension;
+    /** 監視対象ディレクトリパス */
+    @Value("${move.to.directory.path}")
+    private String moveToDirectoryPath;
 
 }

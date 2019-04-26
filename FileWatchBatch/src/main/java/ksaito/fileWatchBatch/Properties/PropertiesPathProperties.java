@@ -13,6 +13,6 @@ import java.util.Map;
 @ConfigurationProperties(prefix = "properties")
 public class PropertiesPathProperties {
 
-    private Map<String, String> path = new HashMap<String, String>();
+//    private Map<String, String> path = new HashMap<String, String>();
 
 }
